@@ -1,0 +1,129 @@
+Elementary Mathematics:
+# Basic Arithmetic and Number Theory
+# Introduction to Algebraic Concepts (variables, equations, inequalities)
+# Geometry and Geometric Principles
+
+Intermediate Mathematics:
+#  Algebra
+#  Linear Equations and Inequalities
+#  Systems of Equations
+#  Quadratic Equations and Functions
+#  Numerical Linear Algebra:
+#  Matrix Operations
+#  Vector Spaces
+#  Systems of Linear Equations
+#  Integration Theory:
+#  Basics of Integration and Differentiation
+#  Techniques of Integration
+#  Applications in Calculus
+
+Advanced Mathematics:
+#  Partial Differential Equations, First Course:
+#  Introduction to Partial Differential Equations (PDEs)
+#  Classification and Basic Solution Techniques
+#  Applications in Physics and Engineering
+#  Foundations of Probability Theory
+#  Probability Basics (events, probabilities, random variables)
+#  Probability Distributions (discrete and continuous)
+#  Statistical Independence and Expectation
+
+
+Basic Matlab programming
+__________________________________________________
+Computer architecture & high performance computing
+___________________________________________________
+   After completing the course the student will be able to
+# Introduction to C
+# Organize programming work on a remote computer using Linux command line tools
+# Write simple parallel programs using OpenMP, OpenCL, or MPI
+# Describe the basic features of CPUs and GPUs
+# Assess the influence of hardware and software on runtime performance.
+# Show awareness and competence required to contribute to equality, equal treatment and diversity in society (EED). 
+
+_______________________________________________________
+Nonlinear optimisation 
+_______________________________________________________
+The aim of the course is to give a good theoretical foundation for some of 
+the most important areas of optimisation: convex optimisation, linear optimisation,
+and nonlinear optimisation. The course treats the basics principles for analyzing 
+the properties of an optimisation problem, and the characterization of feasible 
+points that are (locally) optimal. This theory is used to develop a number of examples 
+of optimisation methods, that can be used to solve instances of practical optimisation
+problem. The course also aims to give some practical training in mathematical modelling
+and problem solving using optimisation.
+# state and explain the most important concepts in convex analysis, convex optimization, and duality, and be able to apply the theory on concrete examples.
+# state and explain the basics of necessary and sufficient optimality conditions, in particular the KKT conditions, and be able to utilize the theory to analyze and solve concrete examples.
+# analyze linear programming problems using concepts such as duality and sensitivity; solve linear programming programs using the simplex method and explain how the method works.
+# explain notions such as descent and feasible direction, and use these concepts to explain the principles behind, to analyze, and to apply classical optimization methods, e.g., steepest descent, variations of Newton's method, the Frank-Wolfe method, and penalty methods; be able to specify conditions under which these methods converge.
+# formulate relevant parts of a real-world problem in terms of a mathematical optimization model, analyze the model using appropriate tools and methods, and apply appropriate solution algorithms.
+# This basic course in optimization describes the most relevant mathematical principles that are used to analyze and solve optimization problems in continuous variables. A rough separation and overview of the content is as follows.
+# Convex analysis: convex set, polytope, polyhedron, cone, representation theorem, extreme point, Farkas Lemma, convex function
+# Optimality conditions and duality: global/local optimum, existence and uniqueness of optimal solutions, variational inequality, Karush-Kuhn-Tucker (KKT) conditions, complementarity conditions, Lagrange multiplier, Lagrangian dual problem, global optimality conditions, weak/strong duality
+# Linear programming (LP): LP models, LP algebra and geometry, basic feasible solution (BFS), the Simplex method, LP duality, optimality conditions, strong duality, complementarity, interior point methods, sensitivity analysis
+# Nonlinear optimization methods: direction of descent, line search, (quasi-)Newton methods, Frank--Wolfe method, gradient projection, exterior and interior penalty methods.
+_________________________________________________________
+Statistics and machine learning in high dimensions
+_________________________________________________________
+https://www.chalmers.se/en/education/find-masters-programme/engineering-mathematics-and-computational-science-msc/ 
+Stochastic optimization algorithms 
+Artificial neural networks 
+Biochemistry and molecular biology 
+Systems biology 
+Topics in engineering mathematics 
+Computational methods for Bayesian statistics 
+Individual project in mathematics and mathematical statistics 
+Numerical linear algebra 
+Functional analysis 
+Mechanics of fluids 
+Mechanics of solids 
+Stochastic data processing and simulation 
+Stochastic calculus 
+Integration theory 
+Computer vision 
+Game theory and rationality 
+Computational fluid dynamics: The finite volume method (CFD) 
+Scientific visualization 
+Options and mathematics 
+Foundations of probability theory 
+Basic stochastic processes 
+Linear statistical models 
+Introduction to bioinformatic methods
+Introduction to law 
+Dynamical systems 
+Large scale optimization 
+Statistical inference 
+Partial differential equations, first course 
+Computational biology 
+Financial risk 
+Computational electromagnetics 
+Algorithms for machine learning and inference
+Algorithms 
+Financial derivatives and partial differential equations 
+Experimental design and sampling 
+Turbulence modeling 
+Ordinary differential equations and mathematical modelling 
+Linear and integer optimization with applications 
+Statistical learning for big data 
+Partial differential equations 
+Spatial statistics and image analysis 
+Stochastic optimization algorithms 
+Artificial neural networks 
+Biochemistry and molecular biology 
+Systems biology 
+Engineering mathematics 
+Computational methods for Bayesian statistics 
+Individual project in mathematics and mathematical statistics
+Numerical linear algebra 
+Functional analysis 
+Mechanics of solids 
+Stochastic calculus 
+Integration theory 
+Computer vision 
+Game theory and rationality 
+Scientific visualization 
+Options and mathematics 
+Foundations of probability theory 
+Basic stochastic processes 
+Linear statistical models 
+Dynamical systems 
+
